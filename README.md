@@ -1,6 +1,6 @@
 # Pandas Gaming Analysis 
 
-## Option 1: Heroes of Pymoli
+## Heroes of Pymoli
 
 ![Fantasy](Images/Fantasy.png)
 
